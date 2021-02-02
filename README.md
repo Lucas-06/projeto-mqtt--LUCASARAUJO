@@ -8,7 +8,7 @@
   está ideal, acima ou crítica.
 
 
-![]https://drive.google.com/file/d/1F3UqFhNjsfBwada7FwN1xBCmFn5WwSQn/view?usp=sharing
+![circuito](Circuito.jpg)
 
 
 
@@ -16,4 +16,4 @@
 
 
 
-# **Autor:** Lucas Araujo
+## **Autor:** Lucas Araujo
