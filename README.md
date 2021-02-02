@@ -6,9 +6,12 @@
   Esse projeto ilustra utilizar o Arduino como um 'Sensor de Temperatura para Rack', 
   verificando a temperatura ambiente, através do sensor **TMP36**, e validando se a temperatura 
   está ideal, acima ou crítica.
+  
+![fluxograma](Fluxograma.jpg)
 
+## Circuito
 
-![circuito](Circuito.jpg)
+![circuito](Circuito.png)
 
 
 
