@@ -18,6 +18,7 @@ Foram utilizadas as seguintes bibliotecas:
 
 - [PubSubClient](https://www.arduino.cc/reference/en/libraries/pubsubclient/) : Essa biblioteca é responsável pela conexão do cliente MQTT.
 - [UIPEthernet](https://www.arduino.cc/reference/en/libraries/uipethernet/) : Essa biblioteca é responsável pela conexão entre o shield de REDE(ENC28J60) e o Arduino.
+- [SPI](https://www.arduino.cc/en/reference/SPI) : Essa biblioteca permite que você se comunique com dispositivos SPI, com o Arduino como o dispositivo mestre.
 
 
 ## Materiais
