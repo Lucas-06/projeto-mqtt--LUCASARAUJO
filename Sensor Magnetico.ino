@@ -49,12 +49,14 @@ void loop() {
   if(estado_sensor == 1){
 
     mensagem = mqttClient.publish("lucasaraujo-t", "RACK ABERTO");
+    Serial.print("RACK ABERTO");
     //delay(500);
     
   }
   else{
     
     mensagem = mqttClient.publish("lucasaraujo-t", "RACK FECHADO");
+    Serial.print("RACK FECHADO");
    // delay(500);
     
   }
