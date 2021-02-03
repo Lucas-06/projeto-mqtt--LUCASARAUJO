@@ -1,7 +1,7 @@
 **# projeto-mqtt-lucasaraujo**
 
 
-## Titulo da Sketch: Sensor Magnético.
+## Sensor Magnético.
 
   Esse projeto ilustra utilizar o Arduino como um 'Sensor Magnético',  para monitorar se a porta de um Rack
   de Rede está ABERTO ou FECHADO; enviar essa informação via Internet utilizando o protocolo MQTT (Message
@@ -11,19 +11,22 @@
   
 ![fluxograma](Fluxograma.jpg)
 
+Foram utilizadas as seguintes bibliotecas:
+
+- [PubSubClient](https://www.arduino.cc/reference/en/libraries/pubsubclient/) : Essa biblioteca é responsável pela conexão do cliente MQTT.
+- [UIPEthernet](https://www.arduino.cc/reference/en/libraries/uipethernet/) : Essa biblioteca é responsável pela conexão entre o shield de REDE(ENC28J60) e o Arduino.
+
+
+## Materiais
+
+1. Arduino uno
+2. Módulo Ethernet (ENC28J60)
+3. Sensor Magnético (MC-38)
+4. Jumpers
+
 ## Circuito
 
 ![circuito](Circuito.png)
 
-
-| topo AA | topo BB |
-|---------|---------|
-| topo    | topo    |
-| topo    | topo    |
-| topo    | topo    |
-
-
-
-
-
 ## **Autor:** Lucas Araujo
+![](https://www.linkedin.com/in/lucasaraujo2/)
