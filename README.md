@@ -1,7 +1,10 @@
-**# projeto-mqtt-lucasaraujo**
+# projeto-mqtt-lucasaraujo 
 
 
-## Sensor Magnético.
+# Sensor Magnético.
+
+
+## Objetivo
 
   Esse projeto ilustra utilizar o Arduino como um 'Sensor Magnético',  para monitorar se a porta de um Rack
   de Rede está ABERTO ou FECHADO; enviar essa informação via Internet utilizando o protocolo MQTT (Message
