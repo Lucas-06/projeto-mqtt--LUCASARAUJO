@@ -1,11 +1,11 @@
 /* Sensor Magnetico
 
     O objetivo de programa é identificar se a porta do rack está a aberta ou fechada, 
-    utilizando o um arduino, um sensor magnético e um shield de rede. 
+    utilizando um arduino, um sensor magnético e um shield de rede. 
 
     Criador: Lucas Araujo.
     Data: 27/01/2021
-    Ultima Modificação: 21/02/2021
+    Ultima Modificação: 03/02/2021
 
 */
 
